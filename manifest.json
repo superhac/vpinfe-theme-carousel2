@@ -4,7 +4,7 @@
   "author": "superhac",
   "description": "A single screen desktop wheel carousel.",
   "preview_image": "preview.png",
-  "supported_screens": 3,
+  "supported_screens": 1,
   "type": "desktop",
   "change_log": "what changed in this version?"
 }
